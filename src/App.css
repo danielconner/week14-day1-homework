@@ -1,0 +1,12 @@
+.movie {
+  display: table-row;
+}
+
+.movie-box {
+  background-color: yellow;
+}
+
+.movie-box h2 {
+  display: block;
+  font-family: cursive;
+}
